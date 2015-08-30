@@ -1,1 +1,5 @@
-instance.cfg
+*
+
+!README.md
+!minecraft/mods/*
+!minecraft/config/*
